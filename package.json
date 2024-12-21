@@ -1,0 +1,22 @@
+{
+  "name": "api-automation-batch-7",
+  "version": "1.0.0",
+  "description": "API Automation project using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/articnine99/API-Automation-Batch-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/articnine99/API-Automation-Batch-7/issues"
+  },
+  "homepage": "https://github.com/articnine99/API-Automation-Batch-7#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
